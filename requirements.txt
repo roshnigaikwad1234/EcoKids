@@ -1,10 +1,18 @@
-streamlit
+streamlit==1.54.0
+
+# Core utilities
 numpy
 pillow
-opencv-python-headless
+scikit-learn
+
+# Computer Vision (cloud-safe)
+opencv-python-headless==4.13.0.92
+
+# AI / ML
 torch
 ultralytics
-scikit-learn
-langchain
-langchain-openai
-openai
+
+# LangChain (OLDER versions to match your code)
+langchain==0.0.354
+langchain-openai==0.0.6
+openai==0.28.1
