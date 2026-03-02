@@ -1,0 +1,10 @@
+streamlit
+numpy
+pillow
+opencv-python-headless
+torch
+ultralytics
+scikit-learn
+langchain
+langchain-openai
+openai
